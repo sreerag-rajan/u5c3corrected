@@ -9,15 +9,23 @@ export const Navbar = () => {
         <button onClick={()=>{
           navigate("/")
         }}  className="home"> Home </button>
+
+        
         <button onClick={()=>{
           navigate("section/history")
         }}  className="history"> History </button>
+
+
         <button onClick={()=>{
           navigate("/section/mystery")
         }}  className="mystery"> Mystery </button>
+
+
         <button className="technology" onClick={()=>{
           navigate("/section/technology")
         }} >Technology </button>
+
+
         <button onClick={()=>{
           navigate("/section/mythology")
         }}  className="mythology"> Mythology </button>

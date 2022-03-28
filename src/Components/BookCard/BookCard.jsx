@@ -17,10 +17,10 @@ export const BookCard = ({ id, imageUrl, title, price }) => {
 
   return(
     <Link to={`/bookdetailspage/${id}`}>
-      <div className="bookcard">
-      <img src={imageUrl} alt="" />
-      <h2>{title}</h2>
-      <p>{price}</p>
+      <div className="bookCard" >
+      <img className="image" src={imageUrl} alt="" />
+      <h2 className="title">{title}</h2>
+      <p className="price">{price}</p>
       </div>
       
     </Link>
