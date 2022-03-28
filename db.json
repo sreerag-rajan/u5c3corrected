@@ -1,0 +1,127 @@
+{
+    "books":[
+        {   
+            "title":"First they killed my father",
+            "imageUrl":"https://i.harperapps.com/hcanz/covers/9780732265915/y648.jpg",
+            "description":"Story set in cambodia during polpot's regime",
+            "reviews":["amazing","it was ok", "heartrendering"],
+            "author":"Loung Ung",
+            "price": 400,
+            "section": "history",
+            "isbnNumber": 1234567,
+            "id":"1"
+         },
+         {
+            "title":"The diary of a young girl",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/91TcWcVpE+L.jpg",
+            "description":"A young jewish girls life experiece during Nazi Regime in germany",
+            "reviews":["Its a tale of horror and hope","Nazi regime laid bare"],
+            "author":"Anne Frank",
+            "price": 134,
+            "section": "history",
+            "isbnNumber": 1234567,
+            "id":"2"
+         },{
+            "title":"An Era of darkness",
+            "imageUrl":"https://5.imimg.com/data5/PG/UQ/GLADMIN-2793148/an-era-of-darkness-the-british-empire-in-india-250x250.jpg",
+            "description":"Story of colonial India",
+            "reviews":["AAh", "wow","great"],
+            "author":"Shashi Tharoor",
+            "price": 124,
+            "section": "history",
+            "isbnNumber": 1234567,
+            "id":"3"
+         },{
+            "title":"Death on the nile",
+            "imageUrl":"https://agathachristie.imgix.net/image-store/Jacket_FilmTieInDOTN.jpg?auto=compress,format&fit=clip&q=65&w=400",
+            "description":"Poirot returns to solve a mystery of death on the nile",
+            "reviews":["Mindblowing"],
+            "author":"Agatha Christie",
+            "price": 234,
+            "section": "mystery",
+            "isbnNumber": 1234567,
+            "id":"4"
+         },{
+            "title":"Sherlock Holmes",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/71+WebeovJL.jpg",
+            "description":"Sherlock holmes mystery",
+            "reviews":["multiple reviews here","what?"],
+            "author":"Sir Arthur conan doyle",
+            "price": 454,
+            "section": "mystery",
+            "isbnNumber": 1234567,
+            "id":"5"
+         },{
+            "title":"The Da Vinci Code",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/61voOxiNf9L.jpg",
+            "description":"",
+            "reviews": ["WOW", "Brilliant"],
+            "author":"Dan Brown",
+            "price": 1004,
+            "section": "mystery",
+            "isbnNumber": 1234567,
+            "id":"6"
+         },{
+            "title":"Palace of Illusions",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/A15Oe095-zL.jpg",
+            "description":"Book desc",
+            "reviews":["A Decent book"],
+            "author":"Chitra Banerjee Divakaruni",
+            "price": 178,
+            "section": "mythology",
+            "isbnNumber": 1234567,
+            "id":"7"
+         },{
+            "title":"The Shiva trilogy",
+            "imageUrl":"https://www.sundayguardianlive.com/wp-content/uploads/2020/07/2.-lipika-bhushan.jpg",
+            "description":"Book desc",
+            "reviews":["something", "something + 1"],
+            "author":"Amish",
+            "price": 1454,
+            "section": "mythology",
+            "isbnNumber": 1234567,
+            "id":"8"
+         },{
+            "title":"Percy Jackson and the lightning thief",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/91le43AC7-L.jpg",
+            "description":"Book desc",
+            "reviews":["1","2", "3"],
+            "author":"Rick Riordan",
+            "price": 344,
+            "section": "mythology",
+            "isbnNumber": 1234567,
+            "id":"9"
+         },{
+            "title":"Digital Fortress",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41+4wlPukTL._SX306_BO1,204,203,200_.jpg",
+            "description":"Book desc",
+            "reviews":["multiple reviews here"],
+            "author":"Dan Brown",
+            "price": 126,
+            "section": "technology",
+            "isbnNumber": 1234567,
+            "id":"10"
+         },{
+            "title":"Life 3.0",
+            "imageUrl":"https://images-eu.ssl-images-amazon.com/images/I/41-KHndhtVL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "description":"Book desc",
+            "reviews":["multiple reviews here"],
+            "author":"Max Tegmark",
+            "price": 2784,
+            "section": "technology",
+            "isbnNumber": 1234567,
+            "id":"11"
+         },{
+            "title":"The Innovators",
+            "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwu2Qu1TfB9SUoDTA_0kXr0l_Dbqx2ldNajaMdfZxsTqS3LYm2xPOz6G-J&s=5",
+            "description":"Book desc",
+            "reviews":["multiple reviews here"],
+            "author":"Walter Isaacson",
+            "price": 1287,
+            "section": "technology",
+            "isbnNumber": 1234567,
+            "id":"12"
+         }
+    ]
+}
+

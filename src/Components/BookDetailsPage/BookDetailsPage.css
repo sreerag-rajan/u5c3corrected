@@ -1,0 +1,14 @@
+.bookContainer{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    margin: auto;
+}
+.title{
+    font-size: 30px;
+    font-weight: 600;
+}
