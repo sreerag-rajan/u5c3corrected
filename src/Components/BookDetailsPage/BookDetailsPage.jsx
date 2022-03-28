@@ -11,15 +11,9 @@ export const BookDetailsPage = () => {
   // console.log(id);
 
   useEffect(()=>{
-    axios.get("http://localhost:8080/books").then(({data})=>{
-      const b = data.filter((el)=>{
-        if(el.id == id){
-          return el
-        }
-      
-      });
-      // console.log(b[0]);
-      setBook(b[0]);
+    axios.get(`http://localhost:8080/books/${id}`).then(({data})=>{
+      console.log(data);
+      setBook(data);
     })
   },[])
 
