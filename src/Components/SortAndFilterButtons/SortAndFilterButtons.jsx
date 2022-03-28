@@ -27,6 +27,8 @@ export const SortAndFilterButtons = ({ handleSort, books }) => {
         
         handleSort(newdata)
       }}>Title In Asc</button>
+
+
       <button className="sortByTitleDesc" onClick={()=>{
         let newdata =  books.sort((a,b)=>{
           if (a.title > b.title){
@@ -36,12 +38,16 @@ export const SortAndFilterButtons = ({ handleSort, books }) => {
         })
         handleSort(newdata)
       }}> Title in Desc</button>
+
+
       <button className="sortByPriceAsc" onClick={()=>{
         let newdata =  books.sort((a,b)=>{
           return a.price-b.price
         })
         handleSort(newdata)
       }}> Price Asc</button>
+
+      
       <button className="sortByPriceDesc" onClick={()=>{
         let newdata =  books.sort((a,b)=>{
           return b.price-a.price
